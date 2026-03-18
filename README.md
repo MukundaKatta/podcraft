@@ -85,6 +85,3 @@ src/
 └── lib/                      # Supabase, S3, OpenAI clients
 ```
 
-## License
-
-MIT
